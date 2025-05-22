@@ -1,4 +1,5 @@
-pyrebase
+pyrebase4
+
 streamlit
 SQLAlchemy
 python-dotenv
