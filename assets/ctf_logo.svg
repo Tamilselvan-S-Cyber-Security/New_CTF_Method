@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="100" cy="100" r="95" fill="#0E1117" stroke="#FF4B4B" stroke-width="5"/>
+  
+  <!-- Flag pole -->
+  <rect x="60" y="40" width="5" height="120" fill="#FAFAFA"/>
+  
+  <!-- Flag -->
+  <path d="M65 40 L135 40 L125 70 L135 100 L65 100 Z" fill="#FF4B4B"/>
+  
+  <!-- CTF Text -->
+  <text x="100" y="150" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#FAFAFA">CTF</text>
+  
+  <!-- Created by -->
+  <text x="100" y="170" font-family="Arial" font-size="10" text-anchor="middle" fill="#FAFAFA">Created by S.Tamilselvan</text>
+</svg>
