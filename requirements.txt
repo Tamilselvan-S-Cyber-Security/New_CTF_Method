@@ -1,4 +1,4 @@
-Flask
+streamlit
 SQLAlchemy
 python-dotenv
 Werkzeug
